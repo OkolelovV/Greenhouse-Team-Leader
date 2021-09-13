@@ -3,4 +3,6 @@ Designed in 2D/3D software, laser cut from acrylic. Equipped with ventilation pa
 
 Please open "Greenhouse - Team Leader" presentation for details.
 
+See video of the demonstration here: https://youtu.be/Cwb1tl9I_Ac
+
 Since this is an assessed university project, I can share the code only by request.
